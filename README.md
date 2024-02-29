@@ -1,4 +1,4 @@
-# Modpack EULA
+# Foolfish Valley Modpack EULA
 
 ## Client-Side Mods Usage
 
